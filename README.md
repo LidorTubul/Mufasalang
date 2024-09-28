@@ -167,4 +167,4 @@ The Muffasa interpreter includes mechanisms for handling errors at various stage
       t = e || f;
 
 ## Contributing
-   Names: Lidor Tubul, Lotem Cohen, Ben Levintan and Omri Buhbut
+   Name: Lidor Tubul
