@@ -1,4 +1,4 @@
-from mathforlanguage import mathforlenguage, StringBeans, Arrays, Shmuple
+from mathforlanguage import mathforlanguage, StringBeans, Arrays, Shmuple
 
 """
 Muffasa Programming Language Interpreter
