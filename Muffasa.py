@@ -511,7 +511,7 @@ class Interpreter:
 
     Attributes:
         variables (dict): stores variable names and their values
-        math (mathforlenguage): instance of math operations class
+        math (mathforlanguage): instance of math operations class
         current_statement: keep track of the statement being executed
     """
     def __init__(self):
@@ -520,7 +520,7 @@ class Interpreter:
         math operations instances.
         """
         self.variables = {}
-        self.math = mathforlenguage()
+        self.math = mathforlanguage()
         self.current_statement = None
 
     def interpret(self, ast):
