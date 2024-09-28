@@ -286,23 +286,23 @@ class StringBeans:
         return f'"{self.string_}"'
 
 
-class mathforlenguage:
+class mathforlanguage:
     def __init__(self):
         """
-        initializes a mathforlenguage.
+        initializes a mathforlanguage.
         """
         self.Dict = {}
 
     def getDict(self):
         """
 
-        :return: The dictionary used by mathforlenguage.
+        :return: The dictionary used by mathforlanguage.
         """
         return self.Dict
 
     def updateDict(self, Dict):
         """
-        updates the dictionary used by mathforlenguage.
+        updates the dictionary used by mathforlanguage.
         """
         self.Dict = Dict
 
